@@ -39,7 +39,7 @@
 <br>
 
 [![Website](https://img.shields.io/badge/website-lenychang.cn-8b7355?style=flat-square)](https://lenychang.cn)
-[![Email](https://img.shields.io/badge/email-sayhi@lenychang.cn-8b7355?style=flat-square)](mailto:manshitanyin2019@163.com)
+[![Email](https://img.shields.io/badge/email-manshitanyin2019@163.com-8b7355?style=flat-square)](mailto:manshitanyin2019@163.com)
 
 <br>
 
